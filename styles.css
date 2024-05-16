@@ -436,7 +436,7 @@ h2 {
   background-color: hsl(0 0% 8% / var(--tw-bg-opacity));
 }
 .bg-bg-mobile {
-  background-image: url(/assets/images/image-profile-mobile.webp);
+  background-image: url(./assets/images/image-profile-mobile.webp);
 }
 .bg-bgmobile {
   background-size: 174px;
@@ -707,7 +707,7 @@ textarea:-webkit-autofill:hover {
     border-width: 0;
   }
   .tablet\:bg-bg-tablet {
-    background-image: url(/assets/images/image-profile-tablet.webp);
+    background-image: url(./assets/images/image-profile-tablet.webp);
   }
   .tablet\:bg-bgtablet {
     background-size: 322px;
@@ -815,7 +815,7 @@ textarea:-webkit-autofill:hover {
     overflow: visible;
   }
   .desktop\:bg-bg-desktop {
-    background-image: url(/assets/images/image-profile-desktop.webp);
+    background-image: url(./assets/images/image-profile-desktop.webp);
   }
   .desktop\:bg-bgdesktop {
     background-size: 445px;
