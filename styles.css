@@ -775,7 +775,7 @@ h2 {
 }
 
 .bg-bg-mobile {
-  background-image: url('/assets/images/image-profile-mobile.webp');
+  background-image: url('./assets/images/image-profile-mobile.webp');
 }
 
 .bg-bgmobile {
@@ -1118,7 +1118,7 @@ select:-webkit-autofill:focus {
   }
 
   .tablet\:bg-bg-tablet {
-    background-image: url('/assets/images/image-profile-tablet.webp');
+    background-image: url('./assets/images/image-profile-tablet.webp');
   }
 
   .tablet\:bg-bgtablet {
@@ -1258,7 +1258,7 @@ select:-webkit-autofill:focus {
   }
 
   .desktop\:bg-bg-desktop {
-    background-image: url('/assets/images/image-profile-desktop.webp');
+    background-image: url('./assets/images/image-profile-desktop.webp');
   }
 
   .desktop\:bg-bgdesktop {
